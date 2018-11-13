@@ -1,16 +1,27 @@
 { 
 "name": "Wolfhat",
 "description": "Adds a craftable hat.",
+"url": "https://github.com/lucasio6/Wolfhat",
 "releases": [ 
    { 
       "version": "1.0",
+      "url": "https://github.com/lucasio6/WolfHat/releases/tag/1.0",
       "changes": "First version",
       "dependencies": [ 
                  { 
                       "name": "ModComponent",
                       "version": "2.5.1"
                  }
-                       ]
+                       ],
+      "assets": [
+            { 
+               "url": "https://github.com/lucasio6/WolfHat/releases/download/1.0/wolfhatV1.0.zip" 
+            }
+                  ]
+                  }
     }
           ]
 }
+
+
+https://github.com/lucasio6/Wolfhat/releases/download/1.0/Wolfhat-V1.0.zip
