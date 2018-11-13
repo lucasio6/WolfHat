@@ -1,0 +1,16 @@
+{ 
+"name": "Wolfhat",
+"description": "Adds a craftable hat.",
+"releases": [ 
+   { 
+      "version": "1.0",
+      "changes": "First version",
+      "dependencies": [ 
+                 { 
+                      "name": "ModComponent",
+                      "version": "2.5.1"
+                 }
+                       ]
+    }
+          ]
+}
