@@ -10,7 +10,7 @@
       "dependencies": [ 
                  { 
                       "name": "ModComponent",
-                      "version": "2.5.1"
+                      "version": "^2.5.1"
                  }
                        ],
       "assets": [
