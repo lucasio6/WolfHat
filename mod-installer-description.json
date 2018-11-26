@@ -5,7 +5,7 @@
 "releases": [ 
    { 
       "version": "1.2",
-      "url": "https://github.com/lucasio6/WolfHat/releases/tag/1.1",
+      "url": "https://github.com/lucasio6/WolfHat/releases/tag/1.2",
       "changes": "added blueprint .JSON",
       "dependencies": [ 
                  { 
